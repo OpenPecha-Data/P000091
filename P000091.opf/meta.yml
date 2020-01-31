@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །རྗེ་བཙུན་བླ་མ་ཐམས་ཅད་མཁྱེན་ཅིང་གཟིགས་པ་འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་ཀུན་དགའ་བསྟན་པའི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་རྣམ་ཐར་མདོར་བསྡུས་པ་ངོ་མཚར་ཨུ་དུམྦ་རའི་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: SHE-RTD-005
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - quotation
+  - yigchung
+web_metadata:
+  title:
+    en: The Pleasant Udumbara Grove:A Short Biography of the Omniscient Guru Jamyang
+      Khyentse Kunga Tenpai Gyaltsen
+    bo: རྗེ་བཙུན་བླ་མ་ཐམས་ཅད་མཁྱེན་ཅིང་གཟིགས་པ་འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་ཀུན་དགའ་བསྟན་པའི་རྒྱལ་མཚན་དཔལ་བཟང་པོའི་རྣམ་ཐར་མདོར་བསྡུས་པ་ངོ་མཚར་ཨུ་དུམྦ་རའི་དགའ་ཚལ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Treasury of Precious Termas–  Book 5
+    bo: རིན་ཆེན་གཏེར་མཛོད།–  དེབ། ༥
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-RTD-005
+  category:
+    en: Biography
+    bo: རྣམ་ཐར།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-005.epub
+  description:
+    en: ''
+    bo: ''
